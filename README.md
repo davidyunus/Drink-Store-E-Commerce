@@ -1,1 +1,1 @@
-# Drink-Store-E-Commerce
+# drink-store-ecommerce
